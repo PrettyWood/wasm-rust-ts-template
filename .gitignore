@@ -4,3 +4,8 @@ dist
 dist-ssr
 *.local
 coverage
+
+# Added by cargo
+
+/target
+Cargo.lock
