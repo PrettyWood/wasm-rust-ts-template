@@ -1,5 +1,5 @@
 [package]
-name = "wasm-rust-ts-template"
+name = "wrtt-lib"
 version = "0.1.0"
 authors = ["PrettyWood <em.jolibois@gmail.com>"]
 license = "MIT"
